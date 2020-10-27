@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alquilino Silva      alquilino.silva@grupogsh.com @devgsh
 
 # THANKS
 
